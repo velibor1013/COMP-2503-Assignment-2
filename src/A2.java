@@ -114,4 +114,15 @@ public class A2 {
 		
 		System.out.println();
 	}
+	
+	/**
+	 * Code for SSL class
+	 */
+	
+	public class SSL<Hero>
+	{
+		private node <Hero> start;
+		public SSL()
+		{
+	}
 }
