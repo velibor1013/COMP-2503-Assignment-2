@@ -124,5 +124,4 @@ public class A2 {
 		private node <Hero> start;
 		public SSL()
 		{
-	}
 }
